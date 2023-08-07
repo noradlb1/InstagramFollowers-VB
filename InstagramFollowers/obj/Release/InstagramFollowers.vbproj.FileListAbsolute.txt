@@ -1,0 +1,6 @@
+C:\Users\MONSTERMC\Downloads\InstagramFollowers-master\InstagramFollowers-master\InstagramFollowers\obj\Release\InstagramFollowers.Form1.resources
+C:\Users\MONSTERMC\Downloads\InstagramFollowers-master\InstagramFollowers-master\InstagramFollowers\obj\Release\Resources.resources
+C:\Users\MONSTERMC\Downloads\InstagramFollowers-master\InstagramFollowers-master\InstagramFollowers\obj\Release\InstagramFollowers.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Downloads\InstagramFollowers-master\InstagramFollowers-master\InstagramFollowers\obj\Release\InstagramFollowers.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Downloads\InstagramFollowers-master\InstagramFollowers-master\InstagramFollowers\obj\Release\InstagramFollowers.exe
+C:\Users\MONSTERMC\Downloads\InstagramFollowers-master\InstagramFollowers-master\InstagramFollowers\obj\Release\InstagramFollowers.pdb
